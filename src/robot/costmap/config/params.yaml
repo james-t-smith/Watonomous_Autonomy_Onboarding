@@ -1,0 +1,9 @@
+costmap_node:
+  ros__parameters:
+    width: 200
+    height: 200
+    resolution: 0.1
+    lidar_topic: "/lidar"
+    map_frame: "map"
+    bleed_radius: 2.0
+    gausian_sigma: 1.0

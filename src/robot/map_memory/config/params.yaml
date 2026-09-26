@@ -1,0 +1,8 @@
+map_memory_node:
+   ros__parameters:
+    width: 60
+    height: 60
+    resolution: 0.5
+    frame: "sim_world"
+
+    
